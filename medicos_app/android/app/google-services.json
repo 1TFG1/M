@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "415059129950",
+    "project_id": "medicapputec",
+    "storage_bucket": "medicapputec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415059129950:android:f9189514c9f6bab796e6cf",
+        "android_client_info": {
+          "package_name": "com.example.medicos_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415059129950-0mgi4cnkufjf3uv2vnkq027b1evta5o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medicos_app",
+            "certificate_hash": "38a498d8a5b474edae66f890d49912537c08a7ee"
+          }
+        },
+        {
+          "client_id": "415059129950-u1pbbq8bl0frd3eq3m1vrs01d9pcjtn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXv3fzf9wE5DRZL02qCF-B03z-Nxpkm5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415059129950-u1pbbq8bl0frd3eq3m1vrs01d9pcjtn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
